@@ -1,6 +1,7 @@
 {
     "name": "startproject/startproject",
     "type": "project",
+    "description": "php start project.",
     "require": {
         "php": "^8.1"
        
