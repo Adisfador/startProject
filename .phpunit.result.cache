@@ -1,1 +1,1 @@
-{"version":1,"defects":{"DatabaseTest::testCreate":7,"DatabaseTest::testUpdate":7},"times":{"DatabaseTest::testCreate":0.01,"DatabaseTest::testUpdate":0}}
+{"version":1,"defects":{"DatabaseTest::testCreate":7,"DatabaseTest::testUpdate":7},"times":{"DatabaseTest::testCreate":0.47,"DatabaseTest::testUpdate":0}}
